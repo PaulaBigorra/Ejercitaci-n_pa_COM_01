@@ -4,6 +4,6 @@ Este repositorio contiene la resolución completa de todos los ejercicios propue
 
 Participantes: 
    - Barreras Mauricio Ivan
-      - DNI:
+      - DNI: 46.191.245
    - Bigorra Paula Antonella
       - DNI: 46.557.680
