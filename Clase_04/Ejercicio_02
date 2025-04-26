@@ -1,3 +1,4 @@
+"""
 a) Defina una función de nombre mensaje, la cual debe imprimir “Esto es Programación Avanzada”, la cual a través de un decorator poder imprimir el texto “Hola” y “Chau”, 
 La salida debe ser de la forma:
 Hola
@@ -8,3 +9,4 @@ b) Programar un decorador para que imprima la fecha y hora. Integrar en un ejemp
 c) Investigar: 
    i) Cómo invocar a 2 decoradores a la vez?
    ii) Cómo invocar a un decorador que está programado en otro archivo?
+"""
